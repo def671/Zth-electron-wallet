@@ -1,8 +1,8 @@
-# Xerom Desktop Wallet
+# Zether Desktop Wallet
 
 **Clone and run to see it in action.**
 
-This is a desktop wallet for the [Xerom](https://xerom.org/) project.
+This is a desktop wallet for the [Zether](https://zether.org/) project.
 
 ## To Use
 
